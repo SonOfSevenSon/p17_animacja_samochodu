@@ -1,0 +1,20 @@
+.dotted {
+  position: absolute;
+  bottom: -10px;
+  width: 35px;
+  height: 35px;
+  border: 1px dashed white;
+  border-radius: 50%;
+  -webkit-animation: wheels 2s infinite linear;
+          animation: wheels 2s infinite linear;
+}
+
+.front-dotted {
+  right: 10px;
+  z-index: 10;
+}
+
+.rear-dotted {
+  left: 10px;
+}
+/*# sourceMappingURL=wheels.css.map */

@@ -1,0 +1,19 @@
+.dotted {
+  position: absolute;
+  bottom: -8px;
+  width: 30px;
+  height: 30px;
+  background: none;
+  border: 1px dashed white;
+  border-radius: 50%;
+}
+
+.front-dotted {
+  right: 8px;
+  z-index: 10;
+}
+
+.rear-dotted {
+  left: 13px;
+}
+/*# sourceMappingURL=dot.css.map */
